@@ -1,0 +1,22 @@
+{
+    "name": "uk.co.novadawnstudios.novautils",
+    "displayName": "NovaUtils",
+    "description": "NovaUtils is a collection of utility classes and methods for use in aiding Unity game development.",
+    "author": {
+        "name": "NovaDawn Studios",
+        "url": "https://novadawnstudios.co.uk/"
+    },
+    "version": "0.0.1-alpha",
+    "unity": "2022.3",
+    "keywords": [
+        "Plugin",
+        "Utilities"
+    ],
+    "homepage": "https://github.com/NovaDawn-Studios/NovaUtils",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/NovaDawn-Studios/NovaUtils.git"
+    },
+    "samples": [
+    ]
+}
